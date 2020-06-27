@@ -27,4 +27,4 @@
 </p>
 
 ## Contact me:
-    email: thienan99dt[at]gmail[com]
+    email: thienan99dt[at]gmail[dot]com
