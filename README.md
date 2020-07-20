@@ -25,6 +25,3 @@
 <p align="center">
   <img src="imgs/leaderboard.png"/>
 </p>
-
-## Contact me:
-    email: thienan99dt[at]gmail[dot]com
